@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @notarkhit
-- 👀 I’m interested in Front-end
-- 🌱 I’m currently learning Front-end
-- 💞️ I’m looking to collaborate on front end 
+- 👀 I’m interested in React
+- 🌱 I’m currently learning Vanilla JavaScript
 - 📫 notarkhit@gmail.com
