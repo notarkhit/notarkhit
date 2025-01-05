@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @notarkhit
-- 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning Vanilla JavaScript
-- 📫 notarkhit@gmail.com
