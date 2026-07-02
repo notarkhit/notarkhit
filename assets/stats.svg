@@ -1,0 +1,73 @@
+<svg width="900" height="460" viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="rounded"><rect x="0" y="0" width="900" height="460" rx="18"/></clipPath>
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#cba6f7"/>
+      <stop offset="100%" stop-color="#89b4fa"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="900" height="460" fill="#1e1e2e"/>
+    <rect width="900" height="6" fill="url(#headerGrad)"/>
+    <text x="40" y="55" fill="#cdd6f4" font-size="26" font-weight="700" font-family="'Segoe UI', sans-serif">Aryan Arkhit Behra</text>
+    <text x="40" y="80" fill="#6c7086" font-size="14" font-family="'Segoe UI', sans-serif">@notarkhit · on GitHub since 2021</text>
+    <line x1="40" y1="100" x2="860" y2="100" stroke="#313244" stroke-width="1"/>
+
+    
+        <g transform="translate(40, 130)">
+          <text x="0" y="0" fill="#a6adc8" font-size="13" font-family="'Segoe UI', sans-serif">Total Stars</text>
+          <text x="0" y="30" fill="#cba6f7" font-size="28" font-weight="700" font-family="'Segoe UI', sans-serif">59</text>
+        </g>
+        <g transform="translate(310, 130)">
+          <text x="0" y="0" fill="#a6adc8" font-size="13" font-family="'Segoe UI', sans-serif">Public Repos</text>
+          <text x="0" y="30" fill="#89b4fa" font-size="28" font-weight="700" font-family="'Segoe UI', sans-serif">38</text>
+        </g>
+        <g transform="translate(580, 130)">
+          <text x="0" y="0" fill="#a6adc8" font-size="13" font-family="'Segoe UI', sans-serif">Followers</text>
+          <text x="0" y="30" fill="#a6e3a1" font-size="28" font-weight="700" font-family="'Segoe UI', sans-serif">21</text>
+        </g>
+        <g transform="translate(40, 220)">
+          <text x="0" y="0" fill="#a6adc8" font-size="13" font-family="'Segoe UI', sans-serif">Contributions (yr)</text>
+          <text x="0" y="30" fill="#f9e2af" font-size="28" font-weight="700" font-family="'Segoe UI', sans-serif">289</text>
+        </g>
+        <g transform="translate(310, 220)">
+          <text x="0" y="0" fill="#a6adc8" font-size="13" font-family="'Segoe UI', sans-serif">Current Streak</text>
+          <text x="0" y="30" fill="#fab387" font-size="28" font-weight="700" font-family="'Segoe UI', sans-serif">3d</text>
+        </g>
+        <g transform="translate(580, 220)">
+          <text x="0" y="0" fill="#a6adc8" font-size="13" font-family="'Segoe UI', sans-serif">Longest Streak</text>
+          <text x="0" y="30" fill="#f5c2e7" font-size="28" font-weight="700" font-family="'Segoe UI', sans-serif">7d</text>
+        </g>
+
+    <text x="40" y="300" fill="#a6adc8" font-size="13" font-weight="600" font-family="'Segoe UI', sans-serif" letter-spacing="1">TOP LANGUAGES</text>
+    <rect x="40" y="330" width="820" height="14" rx="7" fill="#313244"/>
+    <rect x="40" y="330" width="215.16" height="14" fill="#f34b7d" rx="2"/><rect x="255.15524306794947" y="330" width="192.39" height="14" fill="#A97BFF" rx="2"/><rect x="447.5497632823374" y="330" width="92.86" height="14" fill="#44a51c" rx="2"/><rect x="540.407359138464" y="330" width="59.41" height="14" fill="#000080" rx="2"/><rect x="599.8206645803415" y="330" width="51.26" height="14" fill="#3178c6" rx="2"/><rect x="651.0834557735036" y="330" width="40.23" height="14" fill="#f1e05a" rx="2"/>
+    
+        <g transform="translate(40, 370)">
+          <rect x="0" y="-10" width="10" height="10" rx="2" fill="#f34b7d"/>
+          <text x="16" y="-1" fill="#cdd6f4" font-size="13" font-family="'Segoe UI', sans-serif">C++ 26.2%</text>
+        </g>
+        <g transform="translate(310, 370)">
+          <rect x="0" y="-10" width="10" height="10" rx="2" fill="#A97BFF"/>
+          <text x="16" y="-1" fill="#cdd6f4" font-size="13" font-family="'Segoe UI', sans-serif">Kotlin 23.5%</text>
+        </g>
+        <g transform="translate(580, 370)">
+          <rect x="0" y="-10" width="10" height="10" rx="2" fill="#44a51c"/>
+          <text x="16" y="-1" fill="#cdd6f4" font-size="13" font-family="'Segoe UI', sans-serif">QML 11.3%</text>
+        </g>
+        <g transform="translate(40, 396)">
+          <rect x="0" y="-10" width="10" height="10" rx="2" fill="#000080"/>
+          <text x="16" y="-1" fill="#cdd6f4" font-size="13" font-family="'Segoe UI', sans-serif">Lua 7.2%</text>
+        </g>
+        <g transform="translate(310, 396)">
+          <rect x="0" y="-10" width="10" height="10" rx="2" fill="#3178c6"/>
+          <text x="16" y="-1" fill="#cdd6f4" font-size="13" font-family="'Segoe UI', sans-serif">TypeScript 6.3%</text>
+        </g>
+        <g transform="translate(580, 396)">
+          <rect x="0" y="-10" width="10" height="10" rx="2" fill="#f1e05a"/>
+          <text x="16" y="-1" fill="#cdd6f4" font-size="13" font-family="'Segoe UI', sans-serif">JavaScript 4.9%</text>
+        </g>
+
+    <text x="860" y="442" fill="#6c7086" font-size="11" text-anchor="end" font-family="'Segoe UI', sans-serif">generated 2026-07-02 05:23 UTC</text>
+  </g>
+</svg>
