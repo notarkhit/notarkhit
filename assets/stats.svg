@@ -16,11 +16,11 @@
     
         <g transform="translate(40, 130)">
           <text x="0" y="0" fill="#8b949e" font-size="13" font-family="'Segoe UI', sans-serif">Total Stars</text>
-          <text x="0" y="30" fill="#a371f7" font-size="26" font-weight="700" font-family="'Segoe UI', sans-serif">59</text>
+          <text x="0" y="30" fill="#a371f7" font-size="26" font-weight="700" font-family="'Segoe UI', sans-serif">56</text>
         </g>
         <g transform="translate(310, 130)">
           <text x="0" y="0" fill="#8b949e" font-size="13" font-family="'Segoe UI', sans-serif">Public Repos</text>
-          <text x="0" y="30" fill="#58a6ff" font-size="26" font-weight="700" font-family="'Segoe UI', sans-serif">38</text>
+          <text x="0" y="30" fill="#58a6ff" font-size="26" font-weight="700" font-family="'Segoe UI', sans-serif">37</text>
         </g>
         <g transform="translate(580, 130)">
           <text x="0" y="0" fill="#8b949e" font-size="13" font-family="'Segoe UI', sans-serif">Followers</text>
@@ -57,27 +57,27 @@
 
     <text x="40" y="470" fill="#8b949e" font-size="13" font-weight="600" font-family="'Segoe UI', sans-serif" letter-spacing="1">TOP LANGUAGES</text>
     <rect x="40" y="500" width="820" height="14" rx="7" fill="#161b22"/>
-    <rect x="40" y="500" width="214.76" height="14" fill="#f34b7d" rx="2"/><rect x="254.75829192778173" y="500" width="192.04" height="14" fill="#A97BFF" rx="2"/><rect x="446.7978534478235" y="500" width="92.69" height="14" fill="#44a51c" rx="2"/><rect x="539.4841314777018" y="500" width="59.30" height="14" fill="#000080" rx="2"/><rect x="598.7878222106837" y="500" width="51.17" height="14" fill="#3178c6" rx="2"/><rect x="649.9560360041871" y="500" width="41.67" height="14" fill="#f1e05a" rx="2"/>
+    <rect x="40" y="500" width="217.45" height="14" fill="#f34b7d" rx="2"/><rect x="257.45481840107027" y="500" width="194.45" height="14" fill="#A97BFF" rx="2"/><rect x="451.9056477557979" y="500" width="93.85" height="14" fill="#44a51c" rx="2"/><rect x="545.7557039111895" y="500" width="60.05" height="14" fill="#000080" rx="2"/><rect x="605.8040176833551" y="500" width="51.81" height="14" fill="#3178c6" rx="2"/><rect x="657.6147046584365" y="500" width="42.19" height="14" fill="#f1e05a" rx="2"/>
     
         <g transform="translate(40, 540)">
           <rect x="0" y="-10" width="10" height="10" rx="2" fill="#f34b7d"/>
-          <text x="16" y="-1" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', sans-serif">C++ 26.2%</text>
+          <text x="16" y="-1" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', sans-serif">C++ 26.5%</text>
         </g>
         <g transform="translate(310, 540)">
           <rect x="0" y="-10" width="10" height="10" rx="2" fill="#A97BFF"/>
-          <text x="16" y="-1" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', sans-serif">Kotlin 23.4%</text>
+          <text x="16" y="-1" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', sans-serif">Kotlin 23.7%</text>
         </g>
         <g transform="translate(580, 540)">
           <rect x="0" y="-10" width="10" height="10" rx="2" fill="#44a51c"/>
-          <text x="16" y="-1" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', sans-serif">QML 11.3%</text>
+          <text x="16" y="-1" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', sans-serif">QML 11.4%</text>
         </g>
         <g transform="translate(40, 566)">
           <rect x="0" y="-10" width="10" height="10" rx="2" fill="#000080"/>
-          <text x="16" y="-1" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', sans-serif">Lua 7.2%</text>
+          <text x="16" y="-1" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', sans-serif">Lua 7.3%</text>
         </g>
         <g transform="translate(310, 566)">
           <rect x="0" y="-10" width="10" height="10" rx="2" fill="#3178c6"/>
-          <text x="16" y="-1" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', sans-serif">TypeScript 6.2%</text>
+          <text x="16" y="-1" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', sans-serif">TypeScript 6.3%</text>
         </g>
         <g transform="translate(580, 566)">
           <rect x="0" y="-10" width="10" height="10" rx="2" fill="#f1e05a"/>
@@ -106,16 +106,16 @@
         <rect x="210" y="855" width="240.0" height="12" rx="3" fill="#8b949e"/>
         <text x="820" y="865" fill="#8b949e" font-size="12" font-family="'Segoe UI', sans-serif">★ 4</text>
       
-        <text x="40" y="892" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', sans-serif">uni-data-structures</text>
-        <rect x="210" y="881" width="180.0" height="12" rx="3" fill="#555555"/>
-        <text x="820" y="891" fill="#8b949e" font-size="12" font-family="'Segoe UI', sans-serif">★ 3</text>
+        <text x="40" y="892" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', sans-serif">notarkhit.github.io</text>
+        <rect x="210" y="881" width="120.0" height="12" rx="3" fill="#f1e05a"/>
+        <text x="820" y="891" fill="#8b949e" font-size="12" font-family="'Segoe UI', sans-serif">★ 2</text>
       
-        <text x="40" y="918" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', sans-serif">notarkhit.github.io</text>
-        <rect x="210" y="907" width="120.0" height="12" rx="3" fill="#f1e05a"/>
+        <text x="40" y="918" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', sans-serif">django-password-vault</text>
+        <rect x="210" y="907" width="120.0" height="12" rx="3" fill="#e34c26"/>
         <text x="820" y="917" fill="#8b949e" font-size="12" font-family="'Segoe UI', sans-serif">★ 2</text>
       
   
 
-    <text x="860" y="882" fill="#6e7681" font-size="11" text-anchor="end" font-family="'Segoe UI', sans-serif">generated 2026-07-02 05:31 UTC</text>
+    <text x="860" y="882" fill="#6e7681" font-size="11" text-anchor="end" font-family="'Segoe UI', sans-serif">generated 2026-07-02 05:35 UTC</text>
   </g>
 </svg>
